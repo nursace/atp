@@ -1,8 +1,6 @@
 # Algorithms for the transaction processing
 
-Study materials for **Algorithms for the transaction processing** classes.
-
-Covered themes:
+<h2> Covered topics </h2>
 
 | Week | Topic | Readings |
 |----|-----------|-----|
