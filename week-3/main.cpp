@@ -2,6 +2,8 @@
 
 using namespace std;
 
+void solve() {}
+
 int foo() { return 42; }
 
 int main() {
