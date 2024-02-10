@@ -1,0 +1,7 @@
+Requirements:
+
+Input: a[n], k
+
+Output: index of k in array a
+
+
